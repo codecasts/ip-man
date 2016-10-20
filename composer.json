@@ -1,0 +1,14 @@
+{
+    "name": "codecasts/ip-man",
+    "description": "IP address query tool.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Diego Hernandes",
+            "email": "diego@hernandev.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
