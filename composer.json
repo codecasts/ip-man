@@ -15,5 +15,7 @@
             "IpMan\\": "src/"
         }
     },
-    "require": {}
+    "require": {
+        "symfony/console": "^3.1"
+    }
 }

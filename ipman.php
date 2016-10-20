@@ -4,4 +4,8 @@
 
 require __DIR__.'/vendor/autoload.php';
 
-// bootstrap here
+use Symfony\Component\Console\Application;
+
+$app = new Application();
+
+$app->run();
