@@ -8,4 +8,6 @@ use Symfony\Component\Console\Application;
 
 $app = new Application();
 
+$app->add(new \IpMan\Commands\Query());
+
 $app->run();
